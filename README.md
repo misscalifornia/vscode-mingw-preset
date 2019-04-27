@@ -13,6 +13,8 @@ Unfortunately, you need to specify some values before digging into programming
 1. Try out to build your program with ```Ctrl+Shift+B``` key combination
 2. In case of success try out the debugger with ```F5```
 3. If everything is okay - you (and me of course) are nice
+4. In case of any problems just seek through this guide https://code.visualstudio.com/docs/cpp/config-mingw to find solution of your problem.
+Actually my preset just almost ready-to-go copy of guide I linked above xD
 
 ## MISSING SECTION: how to add new files and other stuff
 It's pretty simple and intuitive but anyway this section must be written
